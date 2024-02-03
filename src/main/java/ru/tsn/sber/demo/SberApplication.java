@@ -33,7 +33,7 @@ import java.util.stream.Collectors;
 public class SberApplication implements CommandLineRunner {
 
     private static final String DEFAULT_FOLDER = "etc";
-    private static final String SHEET_NAME = "425";
+    private static final String SHEET_NAME = "431";
     private static final String EXCEL_FILE_NAME = SHEET_NAME + ".xlsx";
 
     private static final String CSV_SEPARATOR = ";";
